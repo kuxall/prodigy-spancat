@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "PROFILE_NAME",
+    "PROFILE_EMAIL",
+    "PROFILE_ADDRESS",
+    "PROFILE_PHONE"
+  ],
+  "spans_key":"sc",
+  "threshold":0.5,
+  "max_positive":null
+}

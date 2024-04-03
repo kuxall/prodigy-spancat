@@ -1,0 +1,2 @@
+{'sc': [rajesh.hamal@gmail.com, 9866657042, rajesh margaret, Kathmandu, Nepal]}
+[('rajesh.hamal@gmail.com', 'PROFILE_EMAIL'), ('9866657042', 'PROFILE_PHONE'), ('rajesh margaret', 'PROFILE_NAME'), ('Kathmandu, Nepal', 'PROFILE_ADDRESS')]
